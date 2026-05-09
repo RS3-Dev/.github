@@ -1,12 +1,15 @@
-## Hi there 👋
+# Howdy 👋🤠
 
-<!--
+RS3.dev is a community-driven open-source effort focused on building and supporting tools for the RuneScape 3 ecosystem.
 
-**Here are some ideas to get you started:**
+Right now, we host and maintain projects including:
+- **GEPrice Web** — [geprice.com](https://geprice.com)
+- **GEPrice API** — [api.geprice.com](https://api.geprice.com)
+- **The RS Guide** — [thersguide.com](https://thersguide.com)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our goal is to build open-source tools, APIs, libraries, and resources that make it easier for developers to create cool shit for the RS3 community.
+
+We want to make it easier for developers to work together instead of everyone rebuilding the same tools on their own.
+By sharing code, APIs, documentation, and hosting where possible, RS3.dev gives projects a better starting point and helps developers spend more time building new things instead of solving the same problems over and over again.
+
+We are also working toward a lightweight long-term support model for legacy community tools. Too often, useful projects disappear when the original maintainer burns out, gets busy, or moves on. RS3.dev aims to provide a path for those projects to be open-sourced, maintained, and kept alive by the community when possible.
