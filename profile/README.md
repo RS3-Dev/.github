@@ -1,4 +1,4 @@
-# Howdy 👋🤠
+# Howdy 👋
 
 RS3.dev is a community-driven open-source effort focused on building and supporting tools for the RuneScape 3 ecosystem.
 
