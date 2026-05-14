@@ -1,6 +1,6 @@
 # Howdy 👋
 
-RS3.dev is a community-driven open-source effort focused on building and supporting tools for the RuneScape 3 ecosystem.
+RS3.dev is a community-driven open-source effort focused on building and supporting tools for the RuneScape ecosystem.
 
 Right now, we host and maintain projects including:
 - **GEPrice Web** — [geprice.com](https://geprice.com)
