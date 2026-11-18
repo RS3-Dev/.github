@@ -7,15 +7,15 @@ Right now, we host and maintain web tools including:
 - **RS Cache Browser** -[cachebrowser.rs3.dev](https://cachebrowser.rs3.dev/)
 
 We are also actively developing and maintaining several plugins:
-- **Unified Logs** - [github](https://github.com/RS3-Dev/UnifiedLogs) & [mod.io](https://mod.io/g/runescape/m/unified-logs)
-- **RuneQL** - [github](https://github.com/RS3-Dev/runeql) & [mod.io](https://mod.io/g/runescape/m/runeql)
-- **Bank Core** - [github](https://github.com/RS3-Dev/BankCore) & [mod.io](https://mod.io/g/runescape/m/bank-core)
-- **Bank Tags** - [github](https://github.com/RS3-Dev/BankTags) & [mod.io](https://mod.io/g/runescape/m/bank-tags)
-- **Bank Cleaner** - [github](https://github.com/RS3-Dev/BankCleaner) & [mod.io](https://mod.io/g/runescape/m/bank-cleaner)
-- **Advanced Bank Search** - [github](https://github.com/RS3-Dev/AdvancedBankSearch) & [mod.io](https://mod.io/g/runescape/m/advanced-bank-search)
+- **Unified Logs** - [GitHub](https://github.com/RS3-Dev/UnifiedLogs) & [Mod.io](https://mod.io/g/runescape/m/unified-logs)
+- **RuneQL** - [GitHub](https://github.com/RS3-Dev/RuneQL) & [Mod.io](https://mod.io/g/runescape/m/runeql)
+- **Bank Core** - [GitHub](https://github.com/RS3-Dev/BankCore) & [Mod.io](https://mod.io/g/runescape/m/bank-core)
+- **Bank Tags** - [GitHub](https://github.com/RS3-Dev/BankTags) & [Mod.io](https://mod.io/g/runescape/m/bank-tags)
+- **Bank Cleaner** - [GitHub](https://github.com/RS3-Dev/BankCleaner) & [Mod.io](https://mod.io/g/runescape/m/bank-cleaner)
+- **Advanced Bank Search** - [GitHub](https://github.com/RS3-Dev/AdvancedBankSearch) & [Mod.io](https://mod.io/g/runescape/m/advanced-bank-search)
 - **Banked XP** - WIP
-- **Creator Kit** - [github](https://github.com/RS3-Dev/Creator-Kit) (WIP)
-- **Settings Share** - [github](https://github.com/RS3-Dev/settings-share-plugin) & [mod.io](https://mod.io/g/runescape/m/settings-share)
+- **Creator Kit** - [GitHub](https://github.com/RS3-Dev/Creator-Kit) (WIP)
+- **Settings Share** - [GitHub](https://github.com/RS3-Dev/settings-share-plugin) & [Mod.io](https://mod.io/g/runescape/m/settings-share)
 
 Our goal is to build open-source tools, APIs, libraries, and resources that make it easier for developers to create cool shit for the RS3 community.
 
