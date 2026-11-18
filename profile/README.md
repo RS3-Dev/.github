@@ -15,6 +15,7 @@ We are also actively developing and maintaining several plugins:
 - **Advanced Bank Search** - [github](https://github.com/RS3-Dev/AdvancedBankSearch) & [mod.io](https://mod.io/g/runescape/m/advanced-bank-search)
 - **Banked XP** - WIP
 - **Creator Kit** - [github](https://github.com/RS3-Dev/Creator-Kit) (WIP)
+- **Settings Share** - [github](https://github.com/RS3-Dev/settings-share-plugin) & [mod.io](https://mod.io/g/runescape/m/settings-share)
 
 Our goal is to build open-source tools, APIs, libraries, and resources that make it easier for developers to create cool shit for the RS3 community.
 
